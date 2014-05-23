@@ -1,0 +1,6 @@
+{
+    "name": "kaltura/kaltura-php-sdk",
+    "autoload": {
+        "classmap": [""]
+    }
+}
