@@ -1,6 +1,13 @@
 {
-    "name": "kaltura/kaltura-php-sdk",
-    "autoload": {
-        "classmap": [""]
+    "name": "kaltura/kaltura-api",
+    "description": "Kaltura API v3",
+    "authors": [
+        {
+            "name": "Paolo Garri",
+            "email": "paolo@coderumors.com"
+        }
+    ],
+    "require": {
+
     }
 }
