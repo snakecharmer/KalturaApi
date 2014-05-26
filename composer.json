@@ -7,7 +7,9 @@
             "email": "paolo@coderumors.com"
         }
     ],
-    "require": {
-
+    "autoload": {
+        "classmap": [
+            "."
+        ]
     }
 }
